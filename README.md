@@ -1,9 +1,11 @@
 # Opencv_sh_file
 
-Open up your terminal in your raspberry pi
+Open up your terminal in your raspberry pi.
 
-Download the .sh file into your raspberry pi
+Download the .sh file into your raspberry pi.
 
-type in "chmod +777 opencv.sh" to give the file permission to run
+Make changes to the opencv version within the .sh file to install differnet verion.
 
-next type in "sudo ./opencv.sh" to start the installation process
+Type in "chmod +777 opencv.sh" to give the file permission to run.
+
+Next type in "sudo ./opencv.sh" to start the installation process.
